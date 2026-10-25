@@ -110,3 +110,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Lab manuals and local evidence
+lab-instructions*
+rest-*-done*
+sprint_review_outputs.txt
+ci-workflow-done*
